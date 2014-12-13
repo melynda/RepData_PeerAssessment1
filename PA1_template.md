@@ -1,9 +1,4 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
+# Reproducible Research: Peer Assessment 1
 
 ### Introduction to the Assignment
 Devices such as Fitbit, Nike Fuelband, and Jawbone Up can be used to gather data about personal movement activities.  This assignment uses data from a personal activity monitoring device.  The data consists of two months of data collected at 5-minute intervals throughout the day.  The data was collected in October and November, 2012, and includes the number of steps taken by an individual at each interval.
